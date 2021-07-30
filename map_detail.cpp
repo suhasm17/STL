@@ -9,7 +9,7 @@ using namespace std;
 
 void solve() 
 {
-   int i,10
+   int i,n=10;
    map<int,int> m;
    for(i=0;i<n;i++)
    {
