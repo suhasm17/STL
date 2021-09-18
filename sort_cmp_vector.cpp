@@ -28,6 +28,13 @@ bool cmp(ll int a, ll int b)
         return true;
     else
         return false;
+   
+ /*
+ Simple way to remember on how to write the  return logic 
+ (just return whatever the way you want our list to be)
+ -> if we need our list in descending order then return a>b
+ -> if we need our list in ascending order then reurn a<b
+ */
 }
 void solve()
 {
